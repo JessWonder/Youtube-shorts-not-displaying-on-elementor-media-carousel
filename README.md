@@ -7,6 +7,7 @@ The shorts video url is something like 'youtube.com/xxxx' and the normal video u
 
 To solve it in a simple way:
 Get the proper/friendly url of the shorts video by right click on the shorts video page - then click 'copy video url'. In this way, you can get a youtu.be/xxx url and use it to embed the shorts on your elementor.
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/97857531/224171261-eeddccd7-bf42-42cc-b4ae-0c248549a61c.png">
 
 For detailed instruction, please see:
 https://www.youtube.com/watch?v=FFe8T93Xkh0
